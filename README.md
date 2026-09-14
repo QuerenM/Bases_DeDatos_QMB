@@ -4,7 +4,7 @@
 Alumna: Querén Mercado Bernardino.
 Docente: Marisol Juárez.
 ----
-- Crear una base de datos "heladería" con tres tablas diferentes dentro de ellas: estudiante, profesor y materia.
+- Crear una base de datos "escuela" con tres tablas diferentes dentro de ellas: estudiante, profesor y materia.
 
 Instrucciones de la actividad:
 1. Crea un repositorio en GitHub agregando el archivo README.md y posteriormente clónalo en tu equipo. 
