@@ -1,4 +1,4 @@
-
+# BASES DE DATOS
 ## 3 semestre
 **Alumna:** Querén Mercado Bernardino.
 **Docente:** Marisol Juárez.
@@ -17,9 +17,10 @@ Para cada columna define las columnas que consideres necesarias, con un máximo 
 - Paso 5. Una vez creadas, las visualizo mediante DESC estudiante ;
 ![Crear tabla profesor ](Capturas_evidencia/Paso3.png)
 ![Crear tabla materia ](Capturas_evidencia/Paso4.png)
+- Paso 6. Finalmente, utilizo "SHOW TABLES" para ver las tablas que se encuentran dentro de mi base de datos: "escuela"
 ![Visualizo todas las tablas en la base de datos "escuela" ](Capturas_evidencia/Paso5.png)
   
-**CÓDIGO UTILIZADO EN MYSQL**
+**CÓDIGO UTILIZADO EN MYSQL DURANTE LA PRÁCTICA**
 ```mysql
 mysql> SHOW DATABASES;
 +--------------------+
@@ -127,15 +128,15 @@ mysql>
 1. Creación de un Repositorio en Git Hub.
     ![Creación de mi repositorio den GITHUB](Capturas_evidencia/Crearrepo.png)
    - Agregar archivo README.md.
-     ![Archivo Readme en mi repositorio]()
-     ![Primeros datos dentro de mi Readme, escritos al momento de crearlo.]()
+     ![Archivo Readme en mi repositorio](Capturas_evidencia/)
+     ![Primeros datos dentro de mi Readme, escritos al momento de crearlo.](Capturas_evidencia/)
 2. Clonación de mi repositorio *"Bases_DeDatos_QMB"* en mi equipo.
-   ![Clonando el repositorio en mi equipo usando git clone y mi url.]()
+   ![Clonando el repositorio en mi equipo usando git clone y mi url.](Capturas_evidencia/)
    - Edito mi archivo README y hago mi commit.
-   ![Hago cambios en mi README desde Visual Studio Code]()
-   ![Subo esos cambios a mi repositorio remoto]()
+   ![Hago cambios en mi README desde Visual Studio Code](Capturas_evidencia/)
+   ![Subo esos cambios a mi repositorio remoto](Capturas_evidencia/)
    - Creo una carpeta llamada *"Capturas_evidencia"* donde se encuentran las imágenes de cada paso de la prática.
-   ![Carpeta de capturas de evidencia]()
+   ![Carpeta de capturas de evidencia](Capturas_evidencia/)
    - Creo el archivo Evidencias.md (este mismo) donde explico paso a paso el procedimiento realizado acompañado de las capturas de mi carpeta.
-   ![Escribiendo el archivo de EVIDENCIAS.MD]()
+   ![Escribiendo el archivo de EVIDENCIAS.MD](Capturas_evidencia/)
 
