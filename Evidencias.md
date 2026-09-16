@@ -128,15 +128,16 @@ mysql>
 1. Creación de un Repositorio en Git Hub.
     ![Creación de mi repositorio den GITHUB](Capturas_evidencia/Crearrepo.png)
    - Agregar archivo README.md.
-     ![Archivo Readme en mi repositorio](Capturas_evidencia/)
-     ![Primeros datos dentro de mi Readme, escritos al momento de crearlo.](Capturas_evidencia/)
+     ![Archivo Readme en mi repositorio](Capturas_evidencia/readme.png)
+     ![Primeros datos dentro de mi Readme, escritos al momento de crearlo.](Capturas_evidencia/readme1.png)
 2. Clonación de mi repositorio *"Bases_DeDatos_QMB"* en mi equipo.
-   ![Clonando el repositorio en mi equipo usando git clone y mi url.](Capturas_evidencia/)
+   ![Clonando el repositorio en mi equipo usando git clone y mi url.](Capturas_evidencia/clonar.png)
    - Edito mi archivo README y hago mi commit.
    ![Hago cambios en mi README desde Visual Studio Code](Capturas_evidencia/)
    ![Subo esos cambios a mi repositorio remoto](Capturas_evidencia/)
    - Creo una carpeta llamada *"Capturas_evidencia"* donde se encuentran las imágenes de cada paso de la prática.
-   ![Carpeta de capturas de evidencia](Capturas_evidencia/)
+   ![Carpeta de capturas de evidencia](Capturas_evidencia/carpetaevidencia.png)
+  ![Carpeta de capturas de evidencia](Capturas_evidencia/   .png)
    - Creo el archivo Evidencias.md (este mismo) donde explico paso a paso el procedimiento realizado acompañado de las capturas de mi carpeta.
    ![Escribiendo el archivo de EVIDENCIAS.MD](Capturas_evidencia/)
 
