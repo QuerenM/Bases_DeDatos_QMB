@@ -161,6 +161,7 @@ mysql>
    ![Escribiendo el archivo de EVIDENCIAS.MD](Capturas_evidencia/Evidenciasmd.png)
 
 9. Hago un último push origin para asegurarme de subir todos los cambios.
- ![Escribiendo el archivo de EVIDENCIAS.MD](Capturas_evidencia/.png)
+ ![Escribiendo el archivo de EVIDENCIAS.MD](Capturas_evidencia/cambiosfinales.png)
+
 
 
