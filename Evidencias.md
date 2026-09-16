@@ -1,4 +1,4 @@
-
+# BASES DE DATOS
 ## 3 semestre
 **Alumna:** Querén Mercado Bernardino.
 **Docente:** Marisol Juárez.
@@ -10,16 +10,17 @@ Para cada columna define las columnas que consideres necesarias, con un máximo 
 
 - Paso 1. Abro MySQL 8.0 Command Line e ingreso mi contraseña.
 - Paso 2. Utilizo SHOW DATABASES para ver las bases de datos existentes.
- ![Ver bases de datos ya guardadas.](Paso1.png)
+ ![Ver bases de datos ya guardadas.](Capturas_evidencia/Paso1.png)
 - Paso 3. Creo una nueva base de datos llamada *escuela* usando CREATE DATABASE escuela.
- ![Crear nueva base de datos y tabla de estudiante](Paso2.png)
+ ![Crear nueva base de datos y tabla de estudiante](Capturas_evidencia/Paso2.png)
 - Paso 4. Procedo a crear cada una de las tablas mediante CREATE TABLE estudiante (-las filas-);
 - Paso 5. Una vez creadas, las visualizo mediante DESC estudiante ;
-![Crear tabla profesor ](Paso3.png)
-![Crear tabla materia ](Paso4.png)
-![Visualizo todas las tablas en la base de datos "escuela" ](Paso5.png)
+![Crear tabla profesor ](Capturas_evidencia/Paso3.png)
+![Crear tabla materia ](Capturas_evidencia/Paso4.png)
+- Paso 6. Finalmente, utilizo "SHOW TABLES" para ver las tablas que se encuentran dentro de mi base de datos: "escuela"
+![Visualizo todas las tablas en la base de datos "escuela" ](Capturas_evidencia/Paso5.png)
   
-**CÓDIGO UTILIZADO EN MYSQL**
+**CÓDIGO UTILIZADO EN MYSQL DURANTE LA PRÁCTICA**
 ```mysql
 mysql> SHOW DATABASES;
 +--------------------+
@@ -120,22 +121,23 @@ mysql>
 ```
 
 ## IMAGEN DEL PROCEDIMEINTO COMPLETO EN MYSQL 
-![Procedimiento completo ](FINAL.png)
+![Procedimiento completo ](Capturas_evidencia/FINAL.png)
 
 
 # TAREA 1.2
 1. Creación de un Repositorio en Git Hub.
-    ![Creación de mi repositorio den GITHUB]()
+    ![Creación de mi repositorio den GITHUB](Capturas_evidencia/Crearrepo.png)
    - Agregar archivo README.md.
-     ![Archivo Readme en mi repositorio]()
-     ![Primeros datos dentro de mi Readme, escritos al momento de crearlo.]()
+     ![Archivo Readme en mi repositorio](Capturas_evidencia/readme.png)
+     ![Primeros datos dentro de mi Readme, escritos al momento de crearlo.](Capturas_evidencia/readme1.png)
 2. Clonación de mi repositorio *"Bases_DeDatos_QMB"* en mi equipo.
-   ![Clonando el repositorio en mi equipo usando git clone y mi url.]()
+   ![Clonando el repositorio en mi equipo usando git clone y mi url.](Capturas_evidencia/clonar.png)
    - Edito mi archivo README y hago mi commit.
-   ![Hago cambios en mi README desde Visual Studio Code]()
-   ![Subo esos cambios a mi repositorio remoto]()
+   ![Hago cambios en mi README desde Visual Studio Code](Capturas_evidencia/)
+   ![Subo esos cambios a mi repositorio remoto](Capturas_evidencia/)
    - Creo una carpeta llamada *"Capturas_evidencia"* donde se encuentran las imágenes de cada paso de la prática.
-   ![Carpeta de capturas de evidencia]()
+   ![Carpeta de capturas de evidencia](Capturas_evidencia/carpetaevidencia.png)
+  ![Carpeta de capturas de evidencia](Capturas_evidencia/   .png)
    - Creo el archivo Evidencias.md (este mismo) donde explico paso a paso el procedimiento realizado acompañado de las capturas de mi carpeta.
-   ![Escribiendo el archivo de EVIDENCIAS.MD]()
+   ![Escribiendo el archivo de EVIDENCIAS.MD](Capturas_evidencia/)
 
